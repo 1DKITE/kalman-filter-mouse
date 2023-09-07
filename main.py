@@ -1,8 +1,3 @@
-# Mouse Tracking with Kalman Filter
-# Author: Du Ang
-# Material references: https://blog.csdn.net/angelfish91/article/details/61768575
-# Date: July 1, 2018
-
 import cv2
 import numpy as np
 

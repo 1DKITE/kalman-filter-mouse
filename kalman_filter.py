@@ -1,12 +1,3 @@
-# KalmanFilter
-# Author: Du Ang
-# Based on https://github.com/dougszumski/KalmanFilter/blob/master/kalman_filter.py by Doug Szumski.
-# Differences with the original version:
-#   - add control term
-#   - use numpy multiplication
-# Materials references: http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
-# Date: July 1, 2018
-
 import numpy as np
 from numpy.linalg import inv
 
